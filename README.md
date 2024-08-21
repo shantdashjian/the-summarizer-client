@@ -1,6 +1,8 @@
 # The Summarizer Client
 A web client for The Summarizer app, built with HTML, CSS, and JS. 
 
+![demo](readme-images/demo.gif "Demo")
+
 ## In This Document:
   - [How to Use the Application](#how-to-use-the-application)
   - [Technologies Used](#technologies-used)
