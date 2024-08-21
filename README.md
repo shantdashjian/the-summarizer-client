@@ -4,10 +4,14 @@ A web client for The Summarizer app, built with HTML, CSS, and JS.
 ![demo](readme-images/demo.gif "Demo")
 
 ## In This Document:
+  - [Live Application URL](#live-application-url)
   - [How to Use the Application](#how-to-use-the-application)
   - [Technologies Used](#technologies-used)
   - [Future Features:](#future-features)
   - [Challenges and Learning Points:](#challenges-and-learning-points)
+
+## Live Application URL
+[https://thesummarizer.pages.dev/](https://thesummarizer.pages.dev/)
 
 ## How to Use the Application
    
