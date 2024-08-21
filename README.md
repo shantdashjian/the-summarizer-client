@@ -1,21 +1,30 @@
-# cbmkPbc9
+# The Summarizer Client
+A web client for The Summarizer app, built with HTML, CSS, and JS. 
 
-Quick start:
+## In This Document:
+  - [How to Use the Application](#how-to-use-the-application)
+  - [Technologies Used](#technologies-used)
+  - [Future Features:](#future-features)
+  - [Challenges and Learning Points:](#challenges-and-learning-points)
 
-```
-$ npm install
-$ npm start
-````
+## How to Use the Application
+   
+1. The user pastes a long text.
+2. They choose the summary length using the slider.
+3. They click on Summarize.
+4. The summary displays.
+5. They could copy the text.
+6. They could clear and start over.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## Technologies Used
+1. HTML, CSS, and JavaScript.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Future Features:
+1. Adding a Read functionality.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Challenges and Learning Points:
+1. I practiced deploying AI-powered applications to Cloudflare.
+   
+<hr>
 
-Happy Coding!
+[Up](README.md)
